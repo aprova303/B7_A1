@@ -7,6 +7,7 @@ But sometimes we do not need all properties from an interface. Creating new inte
 To solve this problem, TypeScript provides utility types like:
 
 1.Pick
+
 2.Omit
 
 **How do Pick and Omit utility types prevent code duplication**
@@ -22,9 +23,7 @@ These utility types help prevent code duplication and keep code DRY (Don't Repea
 
 **What is DRY?**
 
-DRY means:
-
-"Don't Repeat Yourself"
+DRY means Don't Repeat Yourself
 
 Good code avoids repeating the same information multiple times.
 
@@ -37,9 +36,9 @@ They allow us to create smaller and specialized versions of interfaces without r
 
 This keeps code:
 
-Cleaner
-Easier to maintain
-More reusable
-DRY (Don't Repeat Yourself)
+*Cleaner
+*Easier to maintain
+*More reusable
+*DRY (Don't Repeat Yourself)
 
 

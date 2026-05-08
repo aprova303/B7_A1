@@ -32,7 +32,9 @@ This protects us from mistakes.
 We usually use:
 
 1.typeof
+
 2.instanceof
+
 3.condition checks
 
 **Conclusion**
