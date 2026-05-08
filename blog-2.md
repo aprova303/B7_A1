@@ -36,9 +36,12 @@ They allow us to create smaller and specialized versions of interfaces without r
 
 This keeps code:
 
-*Cleaner
-*Easier to maintain
-*More reusable
-*DRY (Don't Repeat Yourself)
+1.Cleaner
+
+2.Easier to maintain
+
+3.More reusable
+
+4.DRY (Don't Repeat Yourself)
 
 
